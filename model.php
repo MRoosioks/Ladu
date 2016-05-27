@@ -147,3 +147,4 @@ function model_user_get($kasutajanimi, $parool)
 
     return false;
 }
+

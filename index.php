@@ -93,3 +93,4 @@ if (!empty($_GET['view'])) {
 }
 
 mysqli_close($l);
+

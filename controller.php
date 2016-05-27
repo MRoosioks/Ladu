@@ -151,3 +151,4 @@ function message_list()
 
     return $messages;
 }
+
