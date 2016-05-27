@@ -1,0 +1,71 @@
+body{
+	background-color:#80ff80;
+}
+.message{
+	text-align:center;
+	border: 1px solid red; 
+	background: #d9d9d9;
+}
+h1{
+	text-align:center;
+}
+.button{
+	text-align:center;
+}
+
+.register-login{
+	position:relative;
+	left:40%;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border:none;
+}
+img{
+	max-width:17px;
+	margin-right: 10px;
+}
+.logo{
+	max-width:50px;
+	margin-right: 20px;
+	padding-top:10px;
+}
+.alert{
+	color:red;
+	margin:1px;
+}
+a{
+	text-decoration: none;
+	color:blue;
+}
+#kogus{
+	width: 5em; 
+	text-align: right;
+}
+.contact{
+	position:absolute;
+	top: 100px;
+	right: 20px;
+	background-color:green;
+}
+#väljalogimine{
+	position: absolute;
+	top:70px;
+	right:10px;
+	color:lightgreen;
+	border-color:darkgreen;
+}
+button{
+	border-radius: 15px;
+	color:lightgreen;
+	border-color:darkgreen;
+}
+input{
+	border-radius: 10px;
+}
+li{
+	padding: 10px;
+}
+ul{
+	background-color:lightgreen;
+	width: 350px;
+}
